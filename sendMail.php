@@ -15,7 +15,7 @@ $var				= $_POST['location'];
 */
 
 // build the email headers
-$recipient 	= 'rwells@innflux.com';
+$recipient 	= 'person@email.com';
 $subject 	  = 'Random Subject Here';
 $headers 	  = "From: god@github.com\r\n";
 $headers 	 .= "Reply-To: octocat@github.com\r\n";
