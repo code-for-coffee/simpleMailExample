@@ -1,0 +1,8 @@
+readme
+
+Super simple php send mail script for customizability.
+Includes:
+
+* index.php (which holds the form data)
+* sendMail.php (holds variables and the script)
+* confirmation.php (landing page)
